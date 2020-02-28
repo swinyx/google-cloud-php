@@ -11,6 +11,7 @@
             "name": "google/cloud",
             "defaultService": "servicebuilder",
             "versions": [
+                "v0.127.0",
                 "v0.126.0",
                 "v0.125.0",
                 "v0.124.0",
@@ -499,6 +500,7 @@
             "name": "google/cloud-dataproc",
             "defaultService": "dataproc/readme",
             "versions": [
+                "v0.18.1",
                 "v0.18.0",
                 "v0.17.0",
                 "v0.16.1",
@@ -791,6 +793,7 @@
             "name": "google/cloud-firestore",
             "defaultService": "firestore/firestoreclient",
             "versions": [
+                "v1.11.1",
                 "v1.11.0",
                 "v1.10.1",
                 "v1.10.0",
@@ -1150,6 +1153,7 @@
             "name": "google/cloud-pubsub",
             "defaultService": "pubsub/pubsubclient",
             "versions": [
+                "v1.21.1",
                 "v1.21.0",
                 "v1.20.0",
                 "v1.19.0",
@@ -1312,6 +1316,7 @@
             "name": "google/cloud-spanner",
             "defaultService": "spanner/spannerclient",
             "versions": [
+                "v1.25.0",
                 "v1.24.1",
                 "v1.24.0",
                 "v1.23.0",
@@ -1528,6 +1533,7 @@
             "name": "google/cloud-tasks",
             "defaultService": "tasks/readme",
             "versions": [
+                "v1.6.0",
                 "v1.5.0",
                 "v1.4.0",
                 "v1.3.0",
