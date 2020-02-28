@@ -1,5 +1,63 @@
 # Changelog
 
+## 0.127.0
+
+<details><summary>google/cloud-dataproc 0.18.1</summary>
+
+
+
+### Documentation
+
+* update doc references ([#2723](https://www.github.com/googleapis/google-cloud-php/issues/2723)) ([97f1e05](https://www.github.com/googleapis/google-cloud-php/commit/97f1e057980bd19102902207bff4831c56e86106))
+
+
+### Miscellaneous Chores
+
+* update metadata ([#2718](https://www.github.com/googleapis/google-cloud-php/issues/2718)) ([b5dd56a](https://www.github.com/googleapis/google-cloud-php/commit/b5dd56a62cb725a9e2ef33e98fcd4fd34cb2f810))
+
+</details>
+
+<details><summary>google/cloud-firestore 1.11.1</summary>
+
+
+
+### Bug Fixes
+
+* allow root-level collection named projects ([#2705](https://www.github.com/googleapis/google-cloud-php/issues/2705)) ([606a9ba](https://www.github.com/googleapis/google-cloud-php/commit/606a9ba3b3b20091c31b37d6757eed32fb41f584))
+
+</details>
+
+<details><summary>google/cloud-pubsub 1.21.1</summary>
+
+
+
+### Documentation
+
+* update documentation ([#2727](https://www.github.com/googleapis/google-cloud-php/issues/2727)) ([45b446c](https://www.github.com/googleapis/google-cloud-php/commit/45b446c693ccd0c7a12460bd10bfa7f2917c352c))
+
+</details>
+
+<details><summary>google/cloud-spanner 1.25.0</summary>
+
+
+
+### Features
+
+* **spanner:** add emulator support ([#2710](https://www.github.com/googleapis/google-cloud-php/issues/2710)) ([abedee8](https://www.github.com/googleapis/google-cloud-php/commit/abedee8d571b0b53737981ae0f4f75e8eef0482f))
+* return limited resource representation on instance exists ([#2708](https://www.github.com/googleapis/google-cloud-php/issues/2708)) ([90f8f74](https://www.github.com/googleapis/google-cloud-php/commit/90f8f74bbf0adc54bce31d8181ed9cfd3d42350a))
+
+</details>
+
+<details><summary>google/cloud-tasks 1.6.0</summary>
+
+
+
+### Features
+
+* add stackdriver logging config ([#2728](https://www.github.com/googleapis/google-cloud-php/issues/2728)) ([0f543ef](https://www.github.com/googleapis/google-cloud-php/commit/0f543ef57294e4f99d9ee0557e19fdbdb89196aa))
+
+</details>
+
 ## 0.126.0
 
 <details><summary>google/cloud-bigquerydatatransfer 0.17.0</summary>
